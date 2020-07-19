@@ -3,7 +3,7 @@
 </h3>
 <p align="center" style="color: grey"><i>
   - someone <br />
-  <a href="https://youtu.be/fRXoSjMgfcE"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"></a>
+  <a href="https://youtu.be/fRXoSjMgfcE" target="_blank"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"></a>
 </i></p>
 
 <details>
