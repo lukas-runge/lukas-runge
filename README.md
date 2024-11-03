@@ -23,6 +23,8 @@
 
 </details>
 
+![Metrics](/github-metrics.svg)
+
 <!--
 ### @day
 🎚️💡on Ⓜ️🅰️ || 🎥🏮 || 🔗🧰
