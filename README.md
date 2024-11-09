@@ -1,13 +1,21 @@
+<p align="center" style="color: grey">
+  <a href="https://youtu.be/cvh0nX08nRw" target="_blank">
+    <img src="./interactive-logo.svg" width="100" />
+  </a>
+</p>
 <h3 align="center" style="color: grey">
   "Coding is just a tool to archive great things in life." <br />
 </h3>
-<p align="center" style="color: grey"><i>
-  - someone <br />
-  <a href="https://youtu.be/fRXoSjMgfcE" target="_blank"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"></a>
-</i></p>
+<p align="center" style="color: grey">
+  <i>~ someone</i>
+  <br />
+  <br />
+</p>
 
 <details>
-  <summary> <b>  On that note </b> <i>(click to expand!)</i> </summary>
+  <summary align="center">
+    <b>On that note</b> <i>(click to expand!)</i>
+  </summary>
 
   ```typescript
   class timeMeasurement {
@@ -23,7 +31,9 @@
 
 </details>
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
+<br />
+
+<p align="center"><img src="./github-metrics.svg" alt="Metrics"></p>
 
 <!--
 ### @day
