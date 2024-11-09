@@ -2,6 +2,14 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
+                @keyframes easteregg {
+                    0% { opacity: 0 }
+                    70% { opacity: 0 }
+                    72% { opacity: 1 }
+                    98% { opacity: 1 }
+                    100% { opactiy: 0 }
+                }
+
                 .figure {
                     position: relative;
                     width: 400px;
@@ -28,6 +36,7 @@
                     object-fit: contain;
                     opacity: 0;
                     transition: opacity .3s ease;
+                    animation: easteregg 20s infinite;
                     width: 100%;
                 }
 
